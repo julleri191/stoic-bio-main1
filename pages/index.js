@@ -48,7 +48,8 @@ export default function Home() {
       <div class='h-screen flex flex-col justify-center items-center text-white'>
       <div>
         <Image
-              src={Profile}
+              src={Profile} 
+              alt="image"
               className='w-24 rounded-full m-4 shadow-xl transition-all grayscale'
             />
       </div>
