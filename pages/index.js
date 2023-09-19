@@ -55,7 +55,7 @@ export default function Home() {
       </div>
       
       <h1 className='font-bold text-lg'>Hamudi</h1>
-      <h2 className='text-[18px] mb-2 text-center'>&quot; All are chosen, but only a few will choose.&quot;
+      <h2 className='text-[18px] mb-2 text-center'>&quot;All are chosen, but only a few will choose.&quot;
 
 <br /></h2>
 
