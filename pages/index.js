@@ -55,7 +55,7 @@ export default function Home() {
       </div>
       
       <h1 className='font-bold text-lg'>Hamudi</h1>
-      <h2 className='text-[18px] mb-2 text-center'>&quot; ALl are chosen, but only a few will choose.&quot;
+      <h2 className='text-[18px] mb-2 text-center'>&quot; All are chosen, but only a few will choose.&quot;
 
 <br /></h2>
 
@@ -63,6 +63,7 @@ export default function Home() {
       
       <div class="m-4 w-[300px] sm:w-[400px] flex flex-col justify-center items-center">
         {/* <EmailList /> */}
+        <iframe width="560" height="315" src="https://youtu.be/UR-NlhpjXn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <Link Name={'Join my discord community'} Link={"https://discord.gg/u3md6jE9kJ"}/>
         <Link Name={'Wealth Creation Courses'} Link={"https://payhip.com/b/pQZHf"}/>
       </div>
