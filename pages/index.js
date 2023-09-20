@@ -65,7 +65,7 @@ export default function Home() {
         {/* <EmailList /> */}
         <iframe width="560" height="315" src="https://www.youtube.com/embed/UR-NlhpjXn8?si=HKQXnQW18bwYx7Yt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <Link Name={'Tutustu kanavalle'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
-        <Link Name={'Tilaa ja opi kuinka editoida kun ammattilainen'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
+        <Link Name={'Opi kuinka editoida kun ammattilainen'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
       </div>
 
       {/* <h1 className='text-[25px] selection:bg-transparent cursor-default'>🔗</h1> */}
