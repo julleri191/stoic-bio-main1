@@ -64,8 +64,8 @@ export default function Home() {
       <div class="m-4 w-[300px] sm:w-[400px] flex flex-col justify-center items-center">
         {/* <EmailList /> */}
         <iframe width="560" height="315" src="https://www.youtube.com/embed/UR-NlhpjXn8?si=HKQXnQW18bwYx7Yt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <Link Name={'Join my discord community'} Link={"https://discord.gg/u3md6jE9kJ"}/>
-        <Link Name={'Wealth Creation Courses'} Link={"https://payhip.com/b/pQZHf"}/>
+        <Link Name={'Tutustu kanavalle'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
+        <Link Name={'Tilaa ja opi kuinka editoida kun ammattilainen'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
       </div>
 
       {/* <h1 className='text-[25px] selection:bg-transparent cursor-default'>🔗</h1> */}
