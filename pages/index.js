@@ -63,7 +63,7 @@ export default function Home() {
       
       <div class="m-4 w-[300px] sm:w-[400px] flex flex-col justify-center items-center">
         {/* <EmailList /> */}
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/UR-NlhpjXn8?si=HKQXnQW18bwYx7Yt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tEvKMFJxbZw?si=f4aHPNR9kvWE2kC3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <Link Name={'Tutustu kanavalle'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
         <Link Name={'Opi kuinka editoida kun ammattilainen'} Link={"https://hamudinkouluprojekti.vercel.app/"}/>
       </div>
