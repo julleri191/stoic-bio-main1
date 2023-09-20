@@ -24,12 +24,12 @@ export default function Bio() {
     return (
         <div className='m-2 flex gap-4 border-4 border-[#1A1A1A] text-[#939393] py-3 px-2 rounded-full'>
             {/* YouTube */}
-            <div onClick={() => {event.preventDefault();window.open('https://www.youtube.com/@ssstoic', "_blank");}} className='px-2'>
+            <div onClick={() => {event.preventDefault();window.open('https://hamudinkouluprojekti.vercel.app/', "_blank");}} className='px-2'>
                 <BsYoutube size={20} className='bio transition-all hover:text-white cursor-pointer'/>
             </div>
 
             {/* TikTok */}
-            <div onClick={() => {event.preventDefault();window.open('https://twitter.com/stoic_words', "_blank");}} className='px-2 rounded-full'>
+            <div onClick={() => {event.preventDefault();window.open('https://hamudinkouluprojekti.vercel.app/', "_blank");}} className='px-2 rounded-full'>
                 <BsTwitter size={20} className='bio transition-all hover:text-white cursor-pointer'/>                
             </div>
 
